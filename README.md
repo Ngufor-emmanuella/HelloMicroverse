@@ -1,56 +1,45 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello microverse
 
-> Description the project.
+> In this project i set up a "hello microverse" repository.No complex coding is required for this excercise.My goal here is to master all of the tools and best practice i learned about in the previous steps. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- HTML
+- CSS
+- NPM
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+VS code 
+Chrome 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+'''md
+git clone https://github.com/Ngufor-emmanuella/helloMicroverse.git
+'''md
+CD HelloMicrovese
+'''
+'''md
+code .
+'''
+-open with live server
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ngufor-emmanuella**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Ngufor-emmanuella](https://github.com/Ngufor-emmanuella)
+- Twitter: [@Nguforemmanuella](https://twitter.com/Ngufor emmauella)
+- LinkedIn: [Ngufor emmanuella](https://linkedin.com/in/Ngufor emmanuella)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
