@@ -20,14 +20,12 @@ To get a local copy up and running follow these simple example steps.
 VS code 
 Chrome 
 ### Setup
-'''md
 git clone https://github.com/Ngufor-emmanuella/helloMicroverse.git
-'''md
+
 CD HelloMicrovese
-'''
-'''md
+
 code .
-'''
+
 -open with live server
 
 
