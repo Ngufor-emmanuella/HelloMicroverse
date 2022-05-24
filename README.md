@@ -2,7 +2,7 @@
 
 # Hello microverse
 
-> In this project i set up a "hello microverse" repository.No complex coding is required for this excercise.My goal here is to master all of the tools and best practice i learned about in the previous steps. 
+> In this project I set up a "Hello Microverse" repository. No complex coding is required for this excercise.My goal here is to master all of the tools and best practice I learned about in the previous steps. 
 
 
 ## Built With
@@ -35,8 +35,8 @@ code .
 👤 **Ngufor-emmanuella**
 
 - GitHub: [@Ngufor-emmanuella](https://github.com/Ngufor-emmanuella)
-- Twitter: [@Nguforemmanuella](https://twitter.com/Ngufor emmauella)
-- LinkedIn: [Ngufor emmanuella](https://linkedin.com/in/Ngufor emmanuella)
+- Twitter: [@Nguforemmanuella](https://twitter.com/Nguforemmauella)
+- LinkedIn: [Ngufor emmanuella](https://linkedin.com/in/Nguforemmanuella)
 
 
 ## 🤝 Contributing
