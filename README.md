@@ -1,4 +1,3 @@
-
 # Hello microverse
 In this project I set up a "HelloMicroverse" repository. No complex coding is required for this excercise.My goal here is to master all of the tools and best practice I learned about in the previous steps. 
 
